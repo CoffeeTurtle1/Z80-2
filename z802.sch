@@ -501,7 +501,7 @@ U 1 1 5D86E3BA
 P 1050 3700
 F 0 "J1" H 1158 3981 50  0000 C CNN
 F 1 "IO Control" H 1158 3890 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical" H 1050 3700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x03_P2.00mm_Vertical" H 1050 3700 50  0001 C CNN
 F 3 "~" H 1050 3700 50  0001 C CNN
 	1    1050 3700
 	1    0    0    -1  
@@ -528,7 +528,7 @@ U 1 1 5D8C28DC
 P 1050 4450
 F 0 "J2" H 1158 4931 50  0000 C CNN
 F 1 "IO Data" H 1158 4840 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x08_P1.27mm_Vertical" H 1050 4450 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical" H 1050 4450 50  0001 C CNN
 F 3 "~" H 1050 4450 50  0001 C CNN
 	1    1050 4450
 	1    0    0    -1  
@@ -587,7 +587,7 @@ U 1 1 5DA1C4B0
 P 1050 6600
 F 0 "J3" H 1158 7481 50  0000 C CNN
 F 1 "IO Address" H 1158 7390 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x16_P1.27mm_Vertical" H 1050 6600 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x16_P2.00mm_Vertical" H 1050 6600 50  0001 C CNN
 F 3 "~" H 1050 6600 50  0001 C CNN
 	1    1050 6600
 	1    0    0    -1  
@@ -942,7 +942,7 @@ U 1 1 5D8545F1
 P 9100 4850
 F 0 "J4" H 9208 5031 50  0000 C CNN
 F 1 "Power" H 9208 4940 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" H 9100 4850 50  0001 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical" H 9100 4850 50  0001 C CNN
 F 3 "~" H 9100 4850 50  0001 C CNN
 	1    9100 4850
 	1    0    0    -1  
